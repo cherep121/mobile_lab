@@ -23,5 +23,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "mobile_lab"
-include(":app")
+include(":app-toast")
  
