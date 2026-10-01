@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "mobile_lab"
 include(":app-toast")
 include(":app-logging")
+include(":app-attributes")
