@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Лабораторная 3: My Information</string>
+    <string name="avatar_initial">A</string>
+    <string name="full_name">Антон</string>
+    <string name="title">Студент</string>
+    <string name="phone">+7 (000) 000-00-00</string>
+    <string name="social_handle">@anton</string>
+    <string name="email">anton@example.com</string>
+</resources>
