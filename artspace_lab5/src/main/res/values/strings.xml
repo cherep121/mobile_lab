@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">ArtSpace Lab 5</string>
     <string name="art_space">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="toyota_land_cruiser_prado">Toyota Land Cruiser Prado</string>
+    <string name="toyota_land_cruiser_prado_description">2,8 л 201 л. с. 2023 г.</string>
+    <string name="mazda_rx7">Mazda RX-7</string>
+    <string name="mazda_rx7_description">1,3 л 235 л. с. 1998 г.</string>
+    <string name="ram_1500_rho">RAM 1500 RHO</string>
+    <string name="ram_1500_rho_description">3,0 л 540 л. с. 2025 г.</string>
 </resources>
