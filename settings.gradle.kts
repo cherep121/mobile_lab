@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "mobile_lab"
+include(":activitylifecycle_lab6")

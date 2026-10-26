@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Lifecycle Lab 6</string>
+    <string name="screen_title">Activity Lifecycle</string>
+    <string name="current_event">Current event</string>
+    <string name="event_history">Lifecycle event history</string>
+    <string name="instructions">Open Logcat with tag ActivityLifecycle, minimize and restore the app, then rotate the device.</string>
+</resources>
