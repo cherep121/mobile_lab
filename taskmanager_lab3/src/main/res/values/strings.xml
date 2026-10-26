@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Лабораторная 3: Task Manager</string>
-    <string name="completed_icon_description">Значок выполненного задания</string>
-    <string name="all_tasks_completed">All tasks completed</string>
-    <string name="nice_work">Nice work!</string>
-</resources>
