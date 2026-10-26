@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "mobile_lab"
 include(":activitylifecycle_lab6")
 include(":artspace_lab6")
+include(":dessertclicker_lab6")

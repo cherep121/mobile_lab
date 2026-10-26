@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dessert Clicker Lab 6</string>
+    <string name="desserts_sold">Desserts sold</string>
+    <string name="total_revenue">Total revenue</string>
+    <string name="share">Share</string>
+    <string name="share_text">I have sold %1$d desserts for a total of $%2$d.</string>
+    <string name="sharing_not_available">Sharing is not available</string>
+    <string name="dessert_description">Dessert to sell</string>
+</resources>
