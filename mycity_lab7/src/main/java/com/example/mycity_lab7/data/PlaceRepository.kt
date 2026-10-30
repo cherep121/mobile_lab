@@ -7,6 +7,30 @@ import com.example.mycity_lab7.model.PlaceCategory
 object PlaceRepository {
     val places = listOf(
         Place(
+            id = "restaurant_ararat",
+            category = PlaceCategory.RESTAURANTS,
+            name = "Арарат",
+            address = "Ноябрьская улица, 58а",
+            description = "Армянская и грузинская кухня.",
+            imageRes = R.drawable.restaurant_ararat,
+        ),
+        Place(
+            id = "restaurant_syrovarnya",
+            category = PlaceCategory.RESTAURANTS,
+            name = "Сыроварня",
+            address = "бульвар Строителей, 1б",
+            description = "Итальянская кухня.",
+            imageRes = R.drawable.restaurant_syrovarnya,
+        ),
+        Place(
+            id = "restaurant_sabai_bar",
+            category = PlaceCategory.RESTAURANTS,
+            name = "Sabai Bar",
+            address = "Советский проспект, 35",
+            description = "Паназиатская кухня.",
+            imageRes = R.drawable.restaurant_sabai_bar,
+        ),
+        Place(
             id = "park_lesnaya_skazka",
             category = PlaceCategory.PARKS,
             name = "Парк «Лесная сказка»",
