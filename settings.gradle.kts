@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "mobile_lab"
 include(":lunchtray_lab7")
+include(":mycity_lab7")
