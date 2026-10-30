@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "mobile_lab"
+include(":lunchtray_lab7")
