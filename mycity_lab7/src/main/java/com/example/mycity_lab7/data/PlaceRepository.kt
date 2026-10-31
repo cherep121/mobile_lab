@@ -102,6 +102,30 @@ object PlaceRepository {
             description = "У этого места долгая история: кинотеатр открыли в 1961 году — изначально как детский специализированный.",
             imageRes = R.drawable.cinema_kosmos_premier,
         ),
+        Place(
+            id = "shopping_ya",
+            category = PlaceCategory.SHOPPING_CENTERS,
+            name = "Я",
+            address = "Кузнецкий проспект, 33б",
+            description = "Один из крупных торговых объектов в городе. Его сильные стороны: центральное расположение, разнообразный ассортимент, зона питания и удобная парковка.",
+            imageRes = R.drawable.shopping_ya,
+        ),
+        Place(
+            id = "shopping_laplandiya",
+            category = PlaceCategory.SHOPPING_CENTERS,
+            name = "Лапландия",
+            address = "Октябрьский проспект, 34",
+            description = "Подойдёт для семейного выхода: пока дети развлекаются в центре, взрослые могут пройтись по магазинам или перекусить на фуд-корте.",
+            imageRes = R.drawable.shopping_laplandiya,
+        ),
+        Place(
+            id = "shopping_letositi",
+            category = PlaceCategory.SHOPPING_CENTERS,
+            name = "ЛетоСити",
+            address = "Московский проспект, 19",
+            description = "Хороший вариант, если нужно совместить шопинг с досугом для всей семьи. Здесь действительно есть чем заняться и взрослым, и детям.",
+            imageRes = R.drawable.shopping_letositi,
+        ),
     )
 
     fun placesFor(category: PlaceCategory): List<Place> =
